@@ -19,7 +19,7 @@
 3. Your exact age will be displayed  
 
 ## 🌟 Live Demo  
-Try the application here: [Insert project link]  
+Try the application here: [https://sidiahmed-4.github.io/Age-Calculator/]  
 
 ## 💡 Future Improvements  
 - Support for different date formats  
